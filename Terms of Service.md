@@ -8,3 +8,4 @@ Unfortunately I am a single developer with no knowledge of legal writing. The go
 * The creator of the app is not liable for any damages.
 * Images and icons provided by the app are property of the creator and must not be copied or redistributed.
 * The creator of the app maintains the right to change the app without warning.
+* Atlassian is not related to the app or its creator in any way.
