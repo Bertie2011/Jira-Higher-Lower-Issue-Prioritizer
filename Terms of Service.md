@@ -7,4 +7,4 @@ Unfortunately I am a single developer with no knowledge of legal writing. The go
 * Payments cannot be refunded.
 * The creator of the app is not liable for any damages.
 * Images and icons provided by the app are property of the creator and must not be copied or redistributed.
-* The creator of the app maintains the right to change the app, terms of service and privacy policy without warning.
+* The creator of the app maintains the right to change the app without warning.
